@@ -1,6 +1,6 @@
 # Energy A.I. Hackathon 2026 Workflow - Diesel Warriors
 
-#### Authors: Akhil Kotturi, Jayant Bhaskaruni, Arav Sawhney, Keshav Partha, Aahan Shah,  CNS (Computer Science), Cockrell SOE (PGE), CNS (SDS)
+#### Authors: Akhil Kotturi, Jayant Bhaskaruni, Arav Sawhney, Keshav Partha, Aahan Shah
 #### The University of Texas at Austin, Austin, Texas, USA
 ##### Placed Amongst Top 20% of Teams
 ___
@@ -14,3 +14,4 @@ ___
 ### Workflow Goal
 
 Our goal is to develop a robust, generalizable pipeline to predict cumulative 3-year oil production for unseen wells by blending physics-driven geological insight with machine learning and uncertainty modeling.
+
